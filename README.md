@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Yuvraj SIngh👨.
+Currently I am pursuing my B.Tech degree in CSE branch at ITER, SOA.
+
+
+- Learning and growing with every passing day.
+- Currently learning JAVA.
+
 
 <!--
 **yuvrajsingh2805/yuvrajsingh2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
