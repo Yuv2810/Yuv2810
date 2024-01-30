@@ -3,7 +3,7 @@ Currently I am pursuing my B.Tech degree in CSE branch at ITER, SOA.
 
 
 - Learning and growing with every passing day.
-- Currently learning JAVA.
+- Currently learning JAVA. 
 
 
 <!--
