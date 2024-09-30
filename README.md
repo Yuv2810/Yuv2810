@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I am Yuvraj Singh👨.<br>I am pursuing my B—tech in the CSE branch at ITER, SOA University.<br><br>- Learning and growing with every passing day.<br>- Currently learning React.js <br>- You can reach me at yuvrajsingh.saps@gmail.com<br>- I am also an Anchor and a Graphic Designer
+<strong>Hi there 👋, I am Yuvraj Singh👨.</strong><br>I am pursuing my B—tech in the CSE branch at ITER, SOA University.<br><br>- Learning and growing with every passing day.<br>- Currently learning React.js <br>- You can reach me at yuvrajsingh.saps@gmail.com<br>- I am also an Anchor and a Graphic Designer
 
 
 ## 🌐 Socials:
